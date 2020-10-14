@@ -1,0 +1,27 @@
+{
+  "name": "crmcurso",
+  "version": "1.0.0",
+  "description": "Curso de GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Juan Thomas Romano",
+  "license": "ISC",
+  "dependencies": {
+    "apollo": "^2.30.2",
+    "apollo-link-context": "^1.0.20",
+    "apollo-server": "^2.16.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.1",
+    "npm-check-updates": "^9.0.1",
+    "react-select": "^3.1.0",
+    "server": "^1.0.30"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
