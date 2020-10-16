@@ -2,7 +2,7 @@
 
  First on the root create a file called `variables.env`
 
- Inside this create two variables one called `MONGO` with the acces to your mongodb database and a second one called `SECRETA` with any word to encrypt the tokens
+ Inside this create two variables one called `DB_MONGO` with the acces to your mongodb database and a second one called `SECRETA` with any word to encrypt the tokens
 
  Now, install the node dependencies 
 
